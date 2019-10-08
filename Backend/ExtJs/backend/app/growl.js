@@ -44,7 +44,7 @@ Ext.define('Shopware.app.Growl', {
 
     /** Message counter */
     count: 0,
-
+//add from dev
     /** Offset (in pixels) between the growl messages */
     offsetTop: 55,
 
