@@ -1,7 +1,7 @@
 /**
  * Shopware 5
  * Copyright (c) shopware AG
- *
+ *//test
  * According to our dual licensing model, this program can be used either
  * under the terms of the GNU Affero General Public License, version 3,
  * or under a proprietary license.
